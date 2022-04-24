@@ -16,7 +16,7 @@ Azure Bot Service is a managed bot development service that helps you seamlessly
 
 # How to use MaskMe chatbot? 
 
-1. Go to makme website 
+1. Go to maskme website 
 https://rajtirole.github.io/MaskMebot.github.io/ or https://maskmestorage.z30.web.core.windows.net/
 
 2. click on MaskMe chatbot on right corner
