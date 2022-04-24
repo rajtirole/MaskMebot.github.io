@@ -35,7 +35,9 @@ we use below mentioned service to create our website and chat bot. for hosting o
 4. search service
 5. storage account
 
-# project screenshot
+# Sample project
+
+# output
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/91474946/164958963-ba40c3e6-cf6e-4544-a0ba-847439503ba2.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/91474946/164958965-dfcace3a-1356-4bf6-a4df-2e9d5f7b045b.png)
