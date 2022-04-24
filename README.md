@@ -19,6 +19,18 @@ https://rajtirole.github.io/MaskMebot.github.io/
 
 3. Now you prompt to new tab where you can ask bot any questions regarding Mask.
 
+Azure service used in MaskMe chatbot:
+
+we use below mentioned service to create our website and chat bot. for hosting of website we use azure static website feature and host our web on storage account. create our bot using qna maker amd azure app service to host this services
+
+
+
+1. Qna maker
+2. Web app bot
+3. App service
+4. search service
+5. storage account
+
 Link of video demonstration of website
 https://youtu.be/9ctGrhBfkuo
 
@@ -26,3 +38,5 @@ Link for GitHub hosted website
 https://rajtirole.github.io/MaskMebot.github.io/
 
 Link for Azure hosted website
+https://maskmestorage.z30.web.core.windows.net/
+
