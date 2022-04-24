@@ -17,7 +17,7 @@ Azure Bot Service is a managed bot development service that helps you seamlessly
 # How to use MaskMe chatbot? 
 
 1. Go to makme website 
-https://rajtirole.github.io/MaskMebot.github.io/
+https://rajtirole.github.io/MaskMebot.github.io/ or https://maskmestorage.z30.web.core.windows.net/
 
 2. click on MaskMe chatbot on right corner
 
@@ -25,7 +25,7 @@ https://rajtirole.github.io/MaskMebot.github.io/
 
 # Azure service used in MaskMe chatbot:
 
-we use below mentioned service to create our website and chat bot. for hosting of website we use azure static website feature and host our web on storage account. create our bot using qna maker amd azure app service to host this services
+we use below mentioned service to create our website and chat bot. for hosting of website we use azure static website feature and host our web on storage account. create our bot using qna maker amd azure app service to host this services.
 
 
 
@@ -35,14 +35,16 @@ we use below mentioned service to create our website and chat bot. for hosting o
 4. search service
 5. storage account
 
-# project scree![Screenshot (29)](https://user-images.githubusercontent.com/91474946/164958963-ba40c3e6-cf6e-4544-a0ba-847439503ba2.png)
+# project screenshot
+
+![Screenshot (29)](https://user-images.githubusercontent.com/91474946/164958963-ba40c3e6-cf6e-4544-a0ba-847439503ba2.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/91474946/164958965-dfcace3a-1356-4bf6-a4df-2e9d5f7b045b.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/91474946/164958967-8eaf6cdc-7515-497b-906e-4eccca0ea2cc.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/91474946/164958968-cd359db4-4ee1-4576-938f-512de5453128.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/91474946/164958970-1dfbb16b-210f-4f9b-a21f-b3e37b49f311.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/91474946/164958972-65eea76e-5bf7-41bf-9c18-7c989e98f04d.png)
 ![Screenshot (35)](https://user-images.githubusercontent.com/91474946/164958974-efed54ce-76ac-40b1-80ce-27ec163421f3.png)
-nshot
+
 
 
 # project links
